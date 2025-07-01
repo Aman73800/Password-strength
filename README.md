@@ -4,6 +4,11 @@ A beginner-friendly desktop application built using **Python** and **Tkinter** t
 
 ---
 
+▶️ **Watch this project in action on YouTube:**  
+[![Watch the video](https://img.youtube.com/vi/1gDm9FyZ41s/0.jpg)](https://youtu.be/1gDm9FyZ41s)
+
+---
+
 ## 📌 Features
 
 * GUI built with `tkinter`
