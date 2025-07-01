@@ -9,12 +9,14 @@ A beginner-friendly desktop application built using **Python** and **Tkinter** t
 
 ---
 
-**Output for code**
-![1.](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193224.png)
-![2.](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193202.png)
-![3.](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193110.png)
-![4.](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193041.png)
-![5.](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20192956.png)
+## Output for code
+![1](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193224.png)
+![2](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193202.png)
+![3](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193110.png)
+![4](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20193041.png)
+![5](https://github.com/Aman73800/Password-strength/blob/main/img%20str/Screenshot%202025-07-01%20192956.png)
+
+---
 ## 📌 Features
 
 * GUI built with `tkinter`
